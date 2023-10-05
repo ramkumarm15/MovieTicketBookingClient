@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiBaseUrl: 'https://web-client-gateway.azure-api.net/api/v1'
+  apiBaseUrl: 'https://movieticket-booking-server.azurewebsites.net/api/v1'
 };
